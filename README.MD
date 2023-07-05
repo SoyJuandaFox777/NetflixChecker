@@ -14,7 +14,7 @@ Ability to determine how to split the combo-list, depending on how it was genera
 
 Added the ability to resume, in case there is a 403 error due to too many requests being issued. Change your VPN and restart the program, and it will resume where it left off.
 
-More options probably coming in the future, can't think of any for now.
+More options probably coming in the future, can't think of any for now. 
  
 Built for Debian/Kali linux terminal (gnome). Enjoy.
 
